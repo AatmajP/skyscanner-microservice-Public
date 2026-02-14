@@ -1,0 +1,32 @@
+[
+  {
+    "city": "Edinburgh",
+    "title": "Hertz Rental Car",
+    "kind": "rental_car"
+  },
+  {
+    "city": "Edinburgh",
+    "title": "Avis Rental Car",
+    "kind": "rental_car"
+  },
+  {
+    "city": "London",
+    "title": "Enterprise Rental Car",
+    "kind": "rental_car"
+  },
+  {
+    "city": "London",
+    "title": "Budget Rental Car",
+    "kind": "rental_car"
+  },
+  {
+    "city": "Glasgow",
+    "title": "Sixt Rental Car",
+    "kind": "rental_car"
+  },
+  {
+    "city": "Barcelona",
+    "title": "Europcar Rental",
+    "kind": "rental_car"
+  }
+]

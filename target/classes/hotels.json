@@ -1,0 +1,32 @@
+[
+  {
+    "city": "Edinburgh",
+    "title": "The Balmoral Hotel",
+    "kind": "hotel"
+  },
+  {
+    "city": "Edinburgh",
+    "title": "Waldorf Astoria Edinburgh",
+    "kind": "hotel"
+  },
+  {
+    "city": "London",
+    "title": "The Ritz London",
+    "kind": "hotel"
+  },
+  {
+    "city": "London",
+    "title": "Claridge's Hotel",
+    "kind": "hotel"
+  },
+  {
+    "city": "Glasgow",
+    "title": "Kimpton Blythswood Square Hotel",
+    "kind": "hotel"
+  },
+  {
+    "city": "Barcelona",
+    "title": "Hotel Arts Barcelona",
+    "kind": "hotel"
+  }
+]
